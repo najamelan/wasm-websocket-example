@@ -14,5 +14,5 @@ path = "src/entrypoint.rs"
 [package]
 authors = ["Naja Melan <najamelan@autistici.org>"]
 edition = "2018"
-name = "wasm_websocket_example"
+name = "client"
 version = "0.1.0"

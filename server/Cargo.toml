@@ -1,0 +1,14 @@
+# Auto-generated from "Cargo.yml"
+[[bin]]
+name = "server"
+path = "src/main.rs"
+
+[dependencies]
+pretty_env_logger = "^0.3"
+warp = "^0.1.13"
+
+[package]
+authors = ["Naja Melan <najamelan@autistici.org>"]
+edition = "2018"
+name = "server"
+version = "0.1.0"

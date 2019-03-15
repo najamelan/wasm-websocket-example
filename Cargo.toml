@@ -1,0 +1,3 @@
+# Auto-generated from "Cargo.yml"
+[workspace]
+members = ["client", "server"]
